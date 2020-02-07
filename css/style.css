@@ -361,11 +361,11 @@ body {
         right: 0;
         top: 0;
         background-color: #9d2929;
-        width: 250px;
-        padding-bottom: 20px;
+        width: 210px;
+        padding-bottom: 10px;
         padding-top: 20px;
         transition: opacity 0.5s;
-        border-bottom-left-radius: 100px;
+        border-bottom-left-radius: 80px;
     }
     .header-active {
         opacity: 1;
