@@ -118,9 +118,12 @@ body {
     text-decoration: none;
     animation-delay: 1s;
 }
-.button:active {
+.button:active, .button:focus {
     color: #fff;
+    text-decoration: none;
+    outline:0 none !important;
 }
+
 
 .play {
     background-color: #9D2929;
