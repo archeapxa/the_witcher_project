@@ -9,12 +9,14 @@ var mySwiper = new Swiper('.swiper-container', {
     freeModeMomentum:true,
     freeModeSticky:true,
 
+
     breakpoints: {
       540: {
         slidesPerView: 2,
         freeMode:true,
         freeModeMomentum:true,
         freeModeSticky:true,
+
       }
     }
 });
