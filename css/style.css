@@ -194,48 +194,64 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
+    text-decoration: none;
+    color: white;
 }
 .series-2 {
     background: linear-gradient(180deg, rgba(20, 18, 24, 0.5) 0%, #2D2D2D 100%), url('../img/series/series2.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
+    text-decoration: none;
+    color: white;
 }
 .series-3 {
     background: linear-gradient(180deg, rgba(20, 18, 24, 0.5) 0%, #2D2D2D 100%), url('../img/series/series3.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
+    text-decoration: none;
+    color: white;
 }
 .series-4 {
     background: linear-gradient(180deg, rgba(20, 18, 24, 0.5) 0%, #2D2D2D 100%), url('../img/series/series4.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
+    text-decoration: none;
+    color: white;
 }
 .series-5 {
     background: linear-gradient(180deg, rgba(20, 18, 24, 0.5) 0%, #2D2D2D 100%), url('../img/series/series5.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
+    text-decoration: none;
+    color: white;
 }
 .series-6 {
     background: linear-gradient(180deg, rgba(20, 18, 24, 0.5) 0%, #2D2D2D 100%), url('../img/series/series6.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
+    text-decoration: none;
+    color: white;
 }
 .series-7 {
     background: linear-gradient(180deg, rgba(20, 18, 24, 0.5) 0%, #2D2D2D 100%), url('../img/series/series7.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
+    text-decoration: none;
+    color: white;
 }
 .series-8 {
     background: linear-gradient(180deg, rgba(20, 18, 24, 0.5) 0%, #2D2D2D 100%), url('../img/series/series8.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
+    text-decoration: none;
+    color: white;
 }
 
 .arrow {
